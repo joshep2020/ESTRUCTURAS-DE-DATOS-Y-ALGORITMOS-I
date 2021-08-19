@@ -1,0 +1,8 @@
+	
+Práctica 0 - Sistema de Gestión de Calidad 
+Práctica 1 - Aplicación de arreglos 
+Práctica 2 - Estructura de Datos -Pilas  (Repaso)
+Práctica 3 - Operaciones de Pilas  (Repaso)
+Práctica 4 - Aplicación de Pilas  (Repaso)
+Práctica 5 - Introducción a Python  (Repaso)
+Práctica 6 - Cola y Listas 
